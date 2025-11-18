@@ -1,0 +1,2 @@
+# tensifyhero-privacy-policy
+TensifyHero 
